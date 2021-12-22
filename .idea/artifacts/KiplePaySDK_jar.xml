@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KiplePaySDK:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KiplePaySDK_jar</output-path>
+    <root id="archive" name="KiplePaySDK.jar">
+      <element id="module-output" name="KiplePaySDK" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.62/bcprov-jdk15on-1.62.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.50/fastjson-1.2.50.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
